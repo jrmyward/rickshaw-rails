@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Rickshaw::Rails::VERSION
   spec.authors       = ["Jeremy Ward"]
   spec.email         = ["jrmy.ward@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{ Rickshaw, a javascript graphing library based on d3, for the rails asset pipeline }
+  spec.summary       = %q{ Gem installation of javascript framework for data visualization, D3 }
+  spec.homepage      = "https://github.com/jrmyward/rickshaw-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
